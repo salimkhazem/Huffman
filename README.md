@@ -65,6 +65,10 @@ The creation of the Huffman tree have the following steps:
   
   
   
-  This Repository is the Implementation of the algorithm using Python 
+  
+  
+  
+  
+  <H4> This Repository is the Implementation of the algorithm using Python  </H4> 
 
   
